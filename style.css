@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  color: black;
+  background: white;
+  margin-left: 4%;
+  margin-right: 3%;
+  
+  background-image: url("images/bckimage.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+div.main {
+  border:3px double black;  
+}
+
+div.list {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 15%;
+    }
+
+h1, h2 {
+  text-align: center;  
+  margin-top: 1pt;
+  margin-bottom: 1pt;
+}
+h1 { 
+  color: rgb(166, 185, 160); 
+  font: 50px/50px "Impact", sans-serif;
+}
+h2 { 
+  color: #008; 
+  font: bold 35px/35px "Verdana", sans-serif;
+}
+h3 {
+  color: rgb(0, 136, 57);
+  font-size: 12pt;
+  margin-left: 2%;
+}
